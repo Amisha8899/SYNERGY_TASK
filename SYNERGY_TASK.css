@@ -1,0 +1,90 @@
+.size{
+    margin-top: 2% ;
+    margin-left: 25%;
+    margin-right: 20%;
+}
+.right{
+    margin-top: 23%;
+    margin-left: 5%;
+    font-size: 200rem;
+}
+h3{
+    height: 200px;
+}
+h2{
+    padding: 10%;
+}
+h1,h4,h3,h2{
+    text-align: center;
+    padding: 2%;
+}
+h5,h6{
+    padding-top: 5px;
+    text-align: center; 
+}
+.top{
+    background-color: #FEF5AC;
+    height:700px ;
+}
+#underline{
+    text-decoration: underline;
+    font-size: 25px;
+}
+.head{
+    text-decoration: underline;
+    padding: 5%;
+}
+a{
+    color: black;
+}
+.change2:hover{
+    height: 225px;
+    width: 225px;
+}
+.change1:hover{
+    height: 110px;
+    width: 110px;
+}
+.size:hover{
+    border-radius: 1000%;
+}
+hr{
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+}
+.edu{
+    padding: 5%;
+}
+.CONTACT{
+    background-color: #FEF5AC;
+   text-align: center;
+}
+input{
+    width: 60%;
+    height: 10%;
+    border: solid 3px black;
+    border-radius: 20%;
+}
+textarea{
+    width: 60%;
+    border: solid 3px black;
+}
+.navbar{
+    position: sticky;
+    top: 0;
+}
+#WORKS{
+    background-color: #97D2EC;
+}
+.box{
+    background-color: white;
+    border: solid 2px black;
+    width: 32%;
+    border-radius: 10%;
+    padding: 5px;
+    margin: 10px;
+    position: relative;
+}
+.row{
+    text-align: center;
+}
